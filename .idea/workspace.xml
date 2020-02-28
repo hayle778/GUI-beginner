@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YPslEANEm6DRETHp0NF5GPgb5V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -74,26 +77,26 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="910" y="148" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1582918041810" />
-    <state width="643" height="185" key="GridCell.Tab.0.bottom" timestamp="1582918360896">
+    <state width="643" height="185" key="GridCell.Tab.0.bottom" timestamp="1582918388280">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582917811527" />
-    <state width="643" height="185" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582918360896" />
-    <state width="643" height="185" key="GridCell.Tab.0.center" timestamp="1582918360895">
+    <state width="643" height="185" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1582918388280" />
+    <state width="643" height="185" key="GridCell.Tab.0.center" timestamp="1582918388279">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582917811525" />
-    <state width="643" height="185" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582918360895" />
-    <state width="643" height="185" key="GridCell.Tab.0.left" timestamp="1582918360894">
+    <state width="643" height="185" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1582918388279" />
+    <state width="643" height="185" key="GridCell.Tab.0.left" timestamp="1582918388279">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582917811524" />
-    <state width="643" height="185" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582918360894" />
-    <state width="643" height="185" key="GridCell.Tab.0.right" timestamp="1582918360896">
+    <state width="643" height="185" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1582918388279" />
+    <state width="643" height="185" key="GridCell.Tab.0.right" timestamp="1582918388280">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582917811526" />
-    <state width="643" height="185" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582918360896" />
+    <state width="643" height="185" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1582918388280" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Delete$GUI.ic" NAME="GUI Coverage Results" MODIFIED="1582917741879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

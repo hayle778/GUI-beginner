@@ -13,29 +13,29 @@ public class GUI implements ActionListener {
      public GUI(){
 
     //the object format
-            JFrame bob = new JFrame( );
+            JFrame frame = new JFrame( );
      // another object
           JButton button = new JButton( "Click me" );
            button.addActionListener( this );
           JLabel label = new JLabel( "Number of clicks: 0");
 
 
-           JPanel merry = new JPanel( );
+           JPanel panel = new JPanel( );
              // add any elements
 
-             merry.setBorder( BorderFactory.createEmptyBorder(30, 30, 10, 30));
-             merry.setLayout( new GridLayout(0, 1  ) );
-             merry.add(button);
-             merry.add(label);
+             panel.setBorder( BorderFactory.createEmptyBorder(30, 30, 10, 30));
+           panel.setLayout( new GridLayout(0, 1  ) );
+            panel.add(button);
+             panel.add(label);
 
 
 
 
     //    add merry as an element to bob
-            bob.add(merry, BorderLayout.CENTER);
-            bob.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
-            bob.pack();
-            bob.setVisible( true );
+           frame.add(panel, BorderLayout.CENTER);
+            frame.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
+            frame.pack();
+            frame.setVisible( true );
 
 
     }
